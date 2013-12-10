@@ -1,0 +1,3 @@
+[Default Applications]
+application/x-deb=gdebi.desktop
+application/x-debian-package=gdebi.desktop

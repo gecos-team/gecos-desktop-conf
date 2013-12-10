@@ -1,0 +1,6 @@
+	<gradient type="vertical" x="0" y="0" width="width" height="height-2">
+		<color value="gtk:custom(wm_button_bg_a,blend/gtk:bg[NORMAL]/gtk:fg[NORMAL]/0.15)" />
+		<color value="gtk:custom(wm_button_bg_b,blend/gtk:bg[NORMAL]/gtk:fg[NORMAL]/0.21)" />
+		<color value="gtk:custom(wm_button_bg_c,blend/gtk:bg[NORMAL]/gtk:fg[NORMAL]/0.27)" />
+		<color value="gtk:custom(wm_button_bg_d,blend/gtk:bg[NORMAL]/gtk:fg[NORMAL]/0.12)" />
+	</gradient>

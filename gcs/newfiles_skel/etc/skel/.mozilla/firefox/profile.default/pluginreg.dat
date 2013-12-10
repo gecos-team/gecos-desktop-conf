@@ -1,0 +1,41 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.15:$
+Arch:x86-gcc3:$
+
+[PLUGINS]
+nppdf.so:$
+/usr/lib/firefox-addons/plugins/nppdf.so:$
+:$
+1328747570000:1:1:$
+The Adobe Reader plugin is used to enable viewing of PDF and FDF files from within the browser.:$
+Adobe Reader 8.0:$
+5
+0:application/pdf:Portable Document Format:pdf:$
+1:application/vnd.fdf:Acrobat Forms Data Format:fdf:$
+2:application/vnd.adobe.xfdf:XML Version of Acrobat Forms Data Format:xfdf:$
+3:application/vnd.adobe.xdp+xml:Acrobat XML Data Package:xdp:$
+4:application/vnd.adobe.xfd+xml:Adobe FormFlow99 Data File:xfd:$
+libgnome-shell-browser-plugin.so:$
+/usr/lib/mozilla/plugins/libgnome-shell-browser-plugin.so:$
+:$
+1319525163000:1:1:$
+This plugin provides integration with Gnome Shell for live extension enabling and disabling. It can be used only by extensions.gnome.org:$
+Gnome Shell Integration:$
+1
+0:application/x-gnome-shell-integration:Gnome Shell Integration Dummy Content-Type::$
+nppdf.so:$
+/usr/lib/mozilla/plugins/nppdf.so:$
+:$
+1328747571000:1:9:$
+The Adobe Reader plugin is used to enable viewing of PDF and FDF files from within the browser.:$
+Adobe Reader 8.0:$
+5
+0:application/pdf:Portable Document Format:pdf:$
+1:application/vnd.fdf:Acrobat Forms Data Format:fdf:$
+2:application/vnd.adobe.xfdf:XML Version of Acrobat Forms Data Format:xfdf:$
+3:application/vnd.adobe.xdp+xml:Acrobat XML Data Package:xdp:$
+4:application/vnd.adobe.xfd+xml:Adobe FormFlow99 Data File:xfd:$
+
+[INVALID]

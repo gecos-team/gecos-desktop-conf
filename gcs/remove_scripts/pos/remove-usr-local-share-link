@@ -1,0 +1,5 @@
+
+if [ -h /usr/local/share/applications/defaults.list ]
+then
+	rm -f /usr/local/share/applications/defaults.list
+fi

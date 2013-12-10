@@ -1,0 +1,9 @@
+
+if [ ! -d /usr/local/share/applications ]
+then
+	mkdir -p /usr/local/share/applications
+	if [ ! -e /usr/local/share/applications/defaults.list ]
+	then
+		ln -s /usr/share/gecos-desktop-conf/usr/local/share/applications/defaults.list /usr/local/share/applications/defaults.list
+	fi
+fi
